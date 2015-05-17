@@ -22,9 +22,3 @@ m - masa
 
 http://fizyka.celary.net/tablice/index.php?temat=zasady_dynamiki_newtona
 
-
-
-
-
-
-    1
