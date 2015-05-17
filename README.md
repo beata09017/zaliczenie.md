@@ -1,4 +1,4 @@
-# zaliczenie.md
+fizyka
 projekt
 ##  Zasady dynamiki Newtona
 
