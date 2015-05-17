@@ -1,6 +1,6 @@
 # zaliczenie.md
 projekt
-##  Zasady dynamiki Newtona, 14/15
+##  Zasady dynamiki Newtona
 
 Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 
