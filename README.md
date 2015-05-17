@@ -1,6 +1,6 @@
 # zaliczenie.md
 projekt
-##  [Technologie Internetowe](ug.geojson), 14/15
+##  Zasady dynamiki Newtona (ug.geojson), 14/15
 
 Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 
